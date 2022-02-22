@@ -8,3 +8,4 @@ video calls
 payment option 
 send money
 recieve money
+delete a mssg
